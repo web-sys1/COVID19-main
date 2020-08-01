@@ -1,4 +1,5 @@
 name: "Extract Time Series"
+description: "Extract all dataset about COVID-19"
 runs:
   using: "node12"
   main: "action.js"
